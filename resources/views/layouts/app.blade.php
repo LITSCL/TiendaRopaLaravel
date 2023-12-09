@@ -3,7 +3,7 @@
 <!doctype html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 <head>
-    <meta charset="utf-8">
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- CSRF Token -->
@@ -30,13 +30,8 @@
 					<li><a href="{{ route('home') }}">Inicio</a></li>
 					<li><a href="{{ route('login') }}">Iniciar Sesión</a></li>
 					<li><a href="{{ route('register') }}">Crear Usuario</a></li>
-					<li><a href="{{ route('producto.vista.crearProducto') }}">Crear Producto</a></li>
-					<li><a href="{{ route('categoria.vista.crearCategoria') }}">Crear Categoria</a></li>
-					<li><a href="{{ route('usuario.vista.mostrarUsuarios') }}">Mostrar Usuarios</a></li>
-					<li><a href="{{ route('producto.vista.mostrarProductos') }}">Mostrar Productos</a></li>
-					<li><a href="{{ route('categoria.vista.mostrarCategorias') }}">Mostrar Categorias</a></li>
-					<li><a href="{{ route('usuario.vista.panelCliente') }}">Panel Cliente</a></li>
-					<li><a href="{{ route('usuario.vista.panelAdministrador') }}">Panel Administrador</a></li>
+					<li><a href="{{ route('producto.vista.crear') }}">Crear Producto</a></li>
+					<li><a href="{{ route('categoria.vista.crear') }}">Crear Categoria</a></li>
 				</ul>
 			</nav>
 		</header>

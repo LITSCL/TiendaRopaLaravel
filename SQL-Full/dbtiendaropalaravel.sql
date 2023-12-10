@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Servidor: 127.0.0.1
--- Tiempo de generación: 02-12-2023 a las 16:05:59
+-- Tiempo de generación: 10-12-2023 a las 21:43:08
 -- Versión del servidor: 10.4.17-MariaDB
 -- Versión de PHP: 8.0.0
 
@@ -104,9 +104,9 @@ INSERT INTO `producto` (`id`, `nombre`, `descripcion`, `precio`, `stock`, `image
 (13, 'Camisa Mujer Rojo', 'Marca: Nike;Tipo: Camisa;Genero: Mujer;Color: Rojo', 23000, 72, 'Camisa Mujer Rojo.png', 1, '0000-00-00 00:00:00', '0000-00-00 00:00:00'),
 (14, 'Camisa Mujer Rosado', 'Marca: Nike;Tipo: Camisa;Genero: Mujer;Color: Rosado', 23000, 2, 'Camisa Mujer Rosado.png', 1, '0000-00-00 00:00:00', '0000-00-00 00:00:00'),
 (15, 'Chaqueta Hombre Amarillo', 'Marca: Caterpillar;Tipo: Chaqueta;Genero: Hombre;Color: Amarillo', 84390, 88, 'Chaqueta Hombre Amarillo.png', 2, '0000-00-00 00:00:00', '0000-00-00 00:00:00'),
-(16, 'Chaqueta Hombre Azul', 'Marca: Caterpillar;Tipo: Chaqueta;Genero: Hombre;Color: Azul\r\n', 84390, 21, 'Chaqueta Hombre Azul.png', 2, '0000-00-00 00:00:00', '0000-00-00 00:00:00'),
-(17, 'Chaqueta Hombre Celeste', 'Marca: Caterpillar;Tipo: Chaqueta;Genero: Hombre;Color: Celeste\r\n', 84390, 56, 'Chaqueta Hombre Celeste.png', 2, '0000-00-00 00:00:00', '0000-00-00 00:00:00'),
-(18, 'Chaqueta Hombre Naranjo', 'Marca: Caterpillar;Tipo: Chaqueta;Genero: Hombre;Color: Naranjo\r\n', 84390, 77, 'Chaqueta Hombre Naranjo.png', 2, '0000-00-00 00:00:00', '0000-00-00 00:00:00'),
+(16, 'Chaqueta Hombre Azul', 'Marca: Caterpillar;Tipo: Chaqueta;Genero: Hombre;Color: Azul', 84390, 21, 'Chaqueta Hombre Azul.png', 2, '0000-00-00 00:00:00', '0000-00-00 00:00:00'),
+(17, 'Chaqueta Hombre Celeste', 'Marca: Caterpillar;Tipo: Chaqueta;Genero: Hombre;Color: Celeste', 84390, 56, 'Chaqueta Hombre Celeste.png', 2, '0000-00-00 00:00:00', '0000-00-00 00:00:00'),
+(18, 'Chaqueta Hombre Naranjo', 'Marca: Caterpillar;Tipo: Chaqueta;Genero: Hombre;Color: Naranjo', 84390, 77, 'Chaqueta Hombre Naranjo.png', 2, '0000-00-00 00:00:00', '0000-00-00 00:00:00'),
 (19, 'Chaqueta Hombre Plomo', 'Marca: Caterpillar;Tipo: Chaqueta;Genero: Hombre;Color: Plomo', 84390, 205, 'Chaqueta Hombre Plomo.png', 2, '0000-00-00 00:00:00', '0000-00-00 00:00:00'),
 (20, 'Chaqueta Hombre Rojo', 'Marca: Caterpillar;Tipo: Chaqueta;Genero: Hombre;Color: Rojo', 84390, 54, 'Chaqueta Hombre Rojo.png', 2, '0000-00-00 00:00:00', '0000-00-00 00:00:00'),
 (21, 'Chaqueta Hombre Rosado', 'Marca: Caterpillar;Tipo: Chaqueta;Genero: Hombre;Color: Rosado', 84390, 13, 'Chaqueta Hombre Rosado.png', 2, '0000-00-00 00:00:00', '0000-00-00 00:00:00'),
